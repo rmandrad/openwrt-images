@@ -1,3 +1,3 @@
 # openwrt-images
 
-Openwrt images to share with the world
+Openwrt mediated/filogic bananapi4 images to share with the world
